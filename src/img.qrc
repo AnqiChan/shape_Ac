@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/tools">
+        <file>imgs/conveyor.png</file>
+        <file>imgs/cutter.png</file>
+        <file>imgs/miner.png</file>
+        <file>imgs/spinner.png</file>
+        <file>imgs/trash.png</file>
+        <file>imgs/cutter_main.png</file>
+        <file>imgs/cutter_side.png</file>
+        <file>imgs/upgrade.png</file>
+        <file>imgs/conveyor_c.png</file>
+        <file>imgs/conveyor_cc.png</file>
+        <file>imgs/save.png</file>
+        <file>imgs/receiver.png</file>
+        <file>imgs/guide.png</file>
+    </qresource>
+    <qresource prefix="/shapes">
+        <file>imgs/circle.png</file>
+        <file>imgs/rectangle.png</file>
+        <file>imgs/rectangle_quarter.png</file>
+        <file>imgs/rectangle_half.png</file>
+    </qresource>
+    <qresource prefix="/bgms">
+        <file>bgms/bgm1.mp3</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>imgs/bg1.png</file>
+        <file>imgs/bg2.png</file>
+        <file>imgs/bg3.png</file>
+        <file>imgs/sign.png</file>
+    </qresource>
+</RCC>
